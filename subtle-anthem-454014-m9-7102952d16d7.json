@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "subtle-anthem-454014-m9",
+  "private_key_id": "7102952d16d7683edf54194cbc3e68d3eacc0d4a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCaG2YUzLFFQvgQ\nElWOw85z3V4ZiVe2ijJHxGa8CEb8Y/0iBWY6atJHVuukfDn0VMPnm6WULAWTlSpG\nzVQlJlb+vDSpd65NH01XFq+nUqbjC9renGYxhb+/j7T11dVNkbDqpZq08BiysAvv\nd/S1qE+z3+SWAuc4MHIN8nds+kokHPa3UEqGi64/uRaWDhXxU+w93ETWBMfouLnB\nIkPm7SUXjFi8o4SEbQhvr3mLXfdHXIhSbzfE+qyd1fdI93+8o2zw2jGyD8X63jkM\nAlNlwmyayGHg0qsoonrKBYk7hZVQUxOSVBc7BfEfL4ZXtSXzO75mKhhPFLtdm87u\n/yszIupDAgMBAAECgf8/ggsPh0uGv5J7DRM1QnxSQ2gEHhWHpGwUJ1wvITofyRUI\ncDEw4dTGkYuKvackicoyKHKUHZAuwcoqY3PJ24L+d5E8RZYPMlctDKxWyDj+WGRa\nWRnETto2l4J7zSOaU/AUwyp+ZnPHL8W7ajPuqO4vspUBPTEMduqJ1OJihsMHHkTD\nydX3DXrdufvHDrMZHY03mYZeT2wNEARLD+qBvb8l6Yy5Sdn4keQBQAWqxTBxvluC\npwLiND1/OXqm5ivelE4cXg+JtCJ6wSGlSY/NSuXunXKdnrSs/zIex25ViaVe/ZNc\nI2mQ/4d+v+9jvl4xeCsH2j3VKIj8MZMU0buX71kCgYEAzP4R3+y4e2JDsV02S5jt\nMVZz0RIIRikxQWPqS6i68D94Oro173UBVXc+ssNtB00GCSA+laHP5BHDNtyYfyy1\ntMo8wXEGcWZU8nsOMlHFW6uYnQAhzfPcB0lFFvle7EwuUJfksoDrpEW2QFUBi11f\nfsf4E8nsP5lgA41pZgvjdakCgYEAwHPy8xXZZgT+3BzWoe4VE+D5dQ5lW0KZgTT9\nOZeYuCVXlJRpwojwSAVx7JfqAaf/n1aQbeEgxtiYRPgxU6BOW3sgDjV5vudOxP0h\nuvJe2wFahnDn5PtChDRgeUNwt8wAfi9Mwt2BMiyDJiCZgAvxNeleP4VmrmAwuvEC\nM8XHfAsCgYEAlteqjY0in2BKkZwWlQBeIb0NEl5jikVLgmOkh7IMhTcfII/fmmoN\n5jcOAvs9Im8yLsr0YqUkVh4f+SHQcVyUBQoANRQXeqCjh563bp2vTWpyrazoMyXr\n1cy7s1Ei4VyZhCKRXizxuPq3RpWGwmeeGqvJR76BQrd46IRJd5bt9KkCgYAbpEu/\n2GKKQattaAL37R8/5K9PvcqXCgDMSxUX4YtA37Qtlgd+tnZ0kbukNMmahUu00hUa\ngxxXEyMDvPYwwbSfdRbMk6ex4L0yk/z1QfyXziD3cF4OSHxsSq2UnTgiXf2wIhEP\naAs3bqdDoakKeCykBqnPy9RMtWoqX5VmZEDbswKBgQCmANGCowucWfH25Q5pZ+Oo\nuo9f0ItDY1HBoCxXAxmjkkOH0BGOWhrMiVw0YSZcilNEiqVQ4ruAnczGWq6iWM63\njmeCPKVYFrdM2UbKF1UAs/erld59AnPg7IyNn1PK5ro5o7kTiS3hLCoSVH7zSjGU\nDoGM6abOrHAthwCIDdh7zg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "parking-bot@subtle-anthem-454014-m9.iam.gserviceaccount.com",
+  "client_id": "104171923385271415728",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/parking-bot%40subtle-anthem-454014-m9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
