@@ -58,7 +58,7 @@ def action_buttons():
 
 def send_parking_list(update: Update, context: CallbackContext):
     district = context.user_data['district']
-    worksheet = sheet.worksheet("Проверенные адреса")
+    worksheet = sheet.worksheet("Проверенные")
     records = worksheet.get_all_records()
     addresses = [f"📍 {row['Адрес']}" for row in records if row['Район'] == district]
     
@@ -72,7 +72,7 @@ def send_parking_list(update: Update, context: CallbackContext):
 def save_address(update: Update, context: CallbackContext):
     address = update.message.text
     district = context.user_data['district']
-    worksheet = sheet.worksheet("Новые адреса")
+    worksheet = sheet.worksheet("Непроверенные")
     worksheet.append_row([district, address, "На проверке"])
     
     update.message.reply_text("Спасибо! Адрес отправлен на проверку администраторам ✅")
