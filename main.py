@@ -67,7 +67,7 @@ def send_parking_list(update: Update, context: CallbackContext):
                                 text=f"Список парковок в {district}:\n\n" + "\n".join(addresses))
     else:
         context.bot.send_message(chat_id=update.callback_query.message.chat_id, 
-                                text="В этом районе пока нет проверенных парковок 😢")
+                                text="Извините, но в этом районе пока нет проверенных парковок 😢")
 
 def save_address(update: Update, context: CallbackContext):
     address = update.message.text
